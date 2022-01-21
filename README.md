@@ -15,17 +15,17 @@ I'm a self-taught passionate C/C++ developer from China
 **Languages and Tools:**
 
 
-| <a href="https://github.com/Robin329/LearnOpenGL"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Robin329&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Robin329's github stats" /></a> | <a href="https://github.com/Robin329/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin329&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Robin329/LearnOpenGL"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Robin329&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Robin329's github stats" /></a> | <a href="https://github.com/Robin329/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin329&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/Robin329/LearnOpenGL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robin329&repo=LearnOpenGL&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robin329&repo=LearnOpenGL&theme=radical" />
 </a>
 <a href="https://github.com/Robin329/Robin329.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robin329&repo=Robin329.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robin329&repo=Robin329.github.io&theme=radical" />
 </a>
 
 <br />
