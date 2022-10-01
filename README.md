@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate C/C++ developer from China
+I'm a self-taught passionate C/C++ Linux developer from China-Chengdu
 
 **About me**
 
-- 💼 C/C++ Engineer at [BST](https://www.bst.ai)
+- 💼 C/C++ Linux Kernel and Driver Engineer at [BST](https://www.bst.ai)
 
 - 💬 Ask me about anything [here](https://github.com/Robin329/Robin329/issues)
 
