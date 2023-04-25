@@ -10,7 +10,7 @@ I'm a self-taught passionate C/C++ Linux developer from China-Chengdu
 
 - 💬 Ask me about anything [here](https://github.com/Robin329/Robin329/issues)
 
-<img src="https://Robin329.de/urlstat?mode=github&repo=Robin329/Robin329" align="right" style="margin: 5px; margin-bottom: 20px;" />
+![](https://visitor-badge.glitch.me/badge?page_id=Robin329)
 
 **Languages and Tools:**
 
