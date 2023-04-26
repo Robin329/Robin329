@@ -18,10 +18,9 @@ I'm a self-taught passionate C/C++ Linux developer from China-Chengdu
 [![](https://img.shields.io/badge/macOS-M1Pro-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/-C/C++/Python/Shell-007396?style=flat-square&logo=C/C++/Python/Shell&logoColor=ffffff)](https://reactjs.org/)
 
-<img src="https://changkun.de/urlstat?mode=github&repo=Robin329/Robin329" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 
 **Languages and Tools:**
-
 
 | <a href="https://github.com/Robin329/LearnOpenGL"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Robin329&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Robin329's github stats" /></a> | <a href="https://github.com/Robin329/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin329&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
