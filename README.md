@@ -9,7 +9,7 @@ I'm a self-taught passionate C/C++ Linux developer from China-Chengdu
 
 ![](https://komarev.com/ghpvc/?username=Robin329&color=blue)
 
-- 💼 C/C++ Linux Kernel and Driver Engineer at [Black Sesame](https://www.blacksesame.com.cn/))
+- 💼 C/C++ Linux Kernel and Driver Engineer at [Black Sesame](https://www.blacksesame.com.cn/)
 
 - 💬 Ask me about anything [here](https://github.com/Robin329/Robin329/issues)
 
