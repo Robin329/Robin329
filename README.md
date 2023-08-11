@@ -24,7 +24,8 @@ I'm a self-taught passionate C/C++ Linux developer from China-Chengdu
 | <a href="https://github.com/Robin329/LearnOpenGL"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Robin329&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Robin329's github stats" /></a> | <a href="https://github.com/Robin329/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin329&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+
+**Top Repositories**
 <a href="https://github.com/Robin329/LearnOpenGL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Robin329&repo=LearnOpenGL&theme=buefy" />
 </a>
@@ -35,3 +36,6 @@ I'm a self-taught passionate C/C++ Linux developer from China-Chengdu
 <br />
 <br />
 
+**Editor NeoVIM**
+
+<div align="center" dir="auto"><a href="https://www.pixiv.net/artworks/98362566"><img width="95%" alt="🥂" src="/images/neovim.png"></a><p>NeoVim</p></div>
